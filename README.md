@@ -23,9 +23,9 @@ Configure the operating environment, and the run "python AISnake.py".
 
 **想要完整版V我50**
 
-![image-20230424024446904](D:\pythonwork\snake\pic\image-20230424024446904.png)![image-20230424024523102](D:\pythonwork\snake\pic\image-20230424024523102.png)
+[![image-20230424024446904](D:\pythonwork\snake\pic\image-20230424024446904.png)](https://github.com/Sudlings/snake/blob/master/pic/image-20230424024446904.png)[![image-20230424024523102](D:\pythonwork\snake\pic\image-20230424024523102.png)](https://github.com/Sudlings/snake/blob/master/pic/image-20230424024523102.png)
 
-![image-20230424034656840](D:\pythonwork\snake\pic\image-20230424034656840.png)
+[![image-20230424034656840](D:\pythonwork\snake\pic\image-20230424034656840.png)](https://github.com/Sudlings/snake/blob/master/pic/image-20230424034656840.png)
 
 
 
@@ -33,8 +33,8 @@ Configure the operating environment, and the run "python AISnake.py".
 
 
 
-![image-20230424024106415](D:\pythonwork\snake\pic\image-20230424024106415.png)
+[![image-20230424024106415](D:\pythonwork\snake\pic\image-20230424024106415.png)](https://github.com/Sudlings/snake/blob/master/pic/image-20230424024106415.png)
 
-![image-20230424024622519](D:\pythonwork\snake\pic\image-20230424024622519.png)
+[![image-20230424024622519](D:\pythonwork\snake\pic\image-20230424024622519.png)](https://github.com/Sudlings/snake/blob/master/pic/image-20230424024622519.png)
 
 # 
