@@ -1,7 +1,7 @@
 # AISnake 
 ```
 The second algorithm to play greedy snake.
-抖音爆火的AI贪吃蛇,神经网络自动寻路,运行即可开直播V+   FAVOUR_S1 添加备注来意,全代码300
+抖音爆火的AI贪吃蛇,神经网络自动寻路,运行即可开直播V+   Yookaing 添加备注来意,全代码100
 ```
 
 # Introduction in Chinese
